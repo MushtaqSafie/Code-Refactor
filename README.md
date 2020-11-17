@@ -13,11 +13,11 @@
   
 ### **Updates**
 * All codebase follows accessibility standards.
-* Updateing all <div> tags to HTML semantic elements.
+* Replacing all div tags to HTML semantic elements.
 * Adding accessible alt attributes to images.
 * Title changed to "Horiseon Social Solution Services".
 * All nav links function correctly.
-* HTML structured properly & organised
+* HTML structured & organised properly.
 * CSS selectors and properties are organised.
 * HTML & CSS file is properly commented.
 * Application load with no errors.
