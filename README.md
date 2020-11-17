@@ -21,3 +21,4 @@
 * CSS selectors and properties are organised.
 * HTML & CSS file is properly commented.
 * Application load with no errors.
+* Add CSS reset.
